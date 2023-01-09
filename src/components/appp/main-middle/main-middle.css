@@ -1,0 +1,27 @@
+.middle {
+    width: 1190px;
+    height: 380px;  
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    margin-left: 50px;
+    gap: 50px;
+    font-family: 'Source Serif Pro'; 
+}
+.middle .title {
+    width: 340px;    
+}
+.title h1{
+    font-size: 44px;
+}
+.user1 {
+    position: absolute;
+    margin-left: -330px;
+    margin-top: 120px;
+}
+.user2  {
+   position: absolute;
+   margin-left: -290px;
+    margin-top: 155px;
+}

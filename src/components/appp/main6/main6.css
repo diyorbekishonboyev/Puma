@@ -1,0 +1,27 @@
+.main6 {
+    position: absolute;
+     width: 1140px;
+    height: 481px;
+    margin-top: 85rem;
+    margin-left: 80px;
+    font-family: 'Source Serif Pro';
+  
+}
+.main6 h1 {
+    text-align: center;
+    padding: 20px;
+}
+.main6 p {
+    opacity: 0.7;
+}
+.bigbox {
+    position: absolute;
+    width: 1140px;
+   height: 481px;
+   display: flex;
+}
+.people { 
+    width: 400px;
+    margin-left: 50px;
+
+}

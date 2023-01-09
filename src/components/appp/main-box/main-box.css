@@ -1,0 +1,40 @@
+.mainbox {
+    position: absolute;
+    width: 1140px;
+    height: 575px;
+    left: 150px;
+    top: 2078px;
+    margin-left: -50px;
+    font-family: 'Poppins';
+}
+.categories {
+    display: flex;
+    gap:  50px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.korzinka {
+    display: flex;
+    position: absolute;
+    width: 1140px;
+    height: 400px;
+
+}
+.corzina {
+    text-align: center;
+    width: 300px;
+    margin-left: -20px;
+    margin-top: -30px;
+    height: 300px;
+}
+.btn3 {
+    padding: 15px 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    background-color: #EE5514;
+
+}
+
+

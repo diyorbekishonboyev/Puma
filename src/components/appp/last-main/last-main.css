@@ -1,0 +1,85 @@
+.lastMain{
+    position: absolute;
+    width: 1140px;
+    height: 580px;
+    font-family: 'Source Serif Pro';
+    margin-left: 80px;
+    
+}
+.lastMain  h3 {
+    text-align: center;
+}
+.lastMain  h1 {
+    text-align: center;
+}
+.boxs {
+    display: grid;
+    width: 200px;
+    height: 200px;
+   
+    
+}
+.box1{
+    position: absolute;
+    width: 360px;
+    height: 423px;  
+    box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+    border-radius: 10px;
+}
+.box2 {
+    width: 360px;
+    height: 423px;
+    margin-left: 390px; 
+    box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+    border-radius: 10px;
+   
+}
+.box3 {
+    position: absolute;
+    width: 360px;
+    height: 423px;
+    margin-left: 775px;
+    box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.05);
+    border-radius: 10px;
+}
+.user6 {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    margin-left: 115px;
+    margin-top: 50px;
+    
+}
+.user3 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 85px;
+    font-family: 'Source Serif Pro';
+}
+.user4 {
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 50px;
+}
+.user5 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 85px;
+    font-family: 'Source Serif Pro';
+}
+.qu  {
+    font-size: 22px;
+    margin-top: 200px;
+    margin-left: 20px;   
+}
+.p {
+    text-align: center;
+    color:  #1a0a0384;
+    font-size: 14px;
+    
+}
+.p2 {
+    text-align: center;
+}

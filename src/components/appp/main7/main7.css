@@ -1,0 +1,38 @@
+.main7 {
+    position: absolute;
+    width: 1140px;
+    height: 334px;
+    margin-top: 125rem;
+    display: flex;
+    justify-content: space-around;
+     font-family: 'Source Serif Pro';
+     background: #e3efff9c;
+     border-radius: 7px 10px 10px 7px;
+     margin-left: 80px;
+
+}
+.pumatext {
+    margin-top: 70px;
+}
+.pumatext p {
+    width: 500px;
+}
+.pumaimg {
+    margin-top: -28px;
+    margin-left: -70px;
+}
+.send {
+    padding: 15px 40px;
+    position: absolute;
+    color: #fff;
+    background-color:  #EE5514;
+    border: none;
+    border-radius: 0 10px 10px 0;
+}
+.input {
+    padding: 13px 40px;
+    font-size: 12px;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    
+}
